@@ -7,6 +7,6 @@
 ### 📊 My GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaraCai&show_icons=true&count_private=true&rank_icon=github&line_height=27&custom_title=GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" style="height: 360px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RaraCai&show_icons=true&count_private=true&rank_icon=github&line_height=27&custom_title=GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged" style="height: 360px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaraCai&layout=compact&hide=jupyter%20notebook&langs_count=20" style="height: 360px"/>
 </div>
