@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Yuxuan Cai!
+# 👋 Hi there, I'm Yuxuan Cai!
 
 ### 👩‍💻 About Myself ([CV](https://raw.githubusercontent.com/RaraCai/RaraCai/main/cv.pdf))
 * 📖 A passionate girl turning chanllenges into stepping stones in the ever-evolving world of code
