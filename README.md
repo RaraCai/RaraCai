@@ -1,6 +1,8 @@
 ## 👋 Hi there, I'm Yuxuan Cai!
 
-### 👩‍💻 About Myself [CV](https://raw.githubusercontent.com/MinmusLin/MinmusLin.github.io/main/docs/public/cv/cv.pdf)
+
+
+### 👩‍💻 About Myself ([CV](https://raw.githubusercontent.com/MinmusLin/MinmusLin.github.io/main/docs/public/cv/cv.pdf))
 * 📖 A passionate girl turning chanllenges into stepping stones in the ever-evolving world of code
 * 🎓 B.Eng. in Computer Science @ School of Computer Science and Technology, Tongji University
 * ✈️ M.Sc. in Data Science & Machine Learning @ National University of Singapore (Expected Admission in 2026)
@@ -13,8 +15,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaraCai&layout=compact&hide=jupyter%20notebook&langs_count=20" style="height: 320px"/>
 </div>
 
-### ⏱️ My WakaTime
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RaraCai&layout=compact"/>
-</div>
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RaraCai)
