@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Yuxuan Cai!
 
-### 👩‍💻 About Myself ([CV](https://raw.githubusercontent.com/MinmusLin/MinmusLin.github.io/main/docs/public/cv/cv.pdf))
+### 👩‍💻 About Myself ([CV](https://raw.githubusercontent.com/RaraCai/RaraCai/main/cv.pdf))
 * 📖 A passionate girl turning chanllenges into stepping stones in the ever-evolving world of code
 * 🎓 B.Eng. in Computer Science @ School of Computer Science and Technology, Tongji University
 * ✈️ M.Sc. in Data Science & Machine Learning @ National University of Singapore (Expected Admission in 2026)
